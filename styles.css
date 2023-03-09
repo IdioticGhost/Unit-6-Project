@@ -1,0 +1,116 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    color: white;
+    font-size: 25px;
+    background-color: black;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.Cave1 {
+    height: 350px;
+}
+
+.buttonsize {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.message-1 {
+    display: none;
+}
+
+.message-2 {
+    display: none;
+}
+
+.Cave2 {
+    display: none;
+}
+
+.button2 {
+    display: none;
+}
+
+.button0 {
+    display: none;
+}
+
+.Cave3 {
+    display: none;
+}
+
+.button3 {
+    display: none;
+}
+
+.button4 {
+    display: none;
+}
+
+.message-3 {
+    display: none;
+}
+
+.Cave4 {
+    display: none;
+}
+
+.dragon {
+    display: none;
+}
+
+.button5 {
+    display: none;
+}
+
+.message-4 {
+    display: none;
+}
+
+.dragon1 {
+    display: none;
+}
+
+.UseSword2 {
+    display: none;
+}
+
+.dragon3 {
+    display: none;
+}
+
+.Continue {
+    display: none;
+}
+
+/* Sorry for the mess! I couldn't figure out how to get it to work with groups.*/
